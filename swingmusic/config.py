@@ -77,6 +77,7 @@ class UserConfig:
     scanInterval: int = 10
     enableWatchdog: bool = False
     showPlaylistsInFolderView: bool = False
+    shuffleModeEnabled: bool = False
 
     # plugins
     enablePlugins: bool = True
